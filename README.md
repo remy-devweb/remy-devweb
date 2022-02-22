@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @remy-devweb
+## 👋 Hi, I’m @remy-devweb
 - 👀 I’m interested in front-end Development
 - 🌱 I’m currently learning more about ReactJS and developping a personal project with it
 - 📫 I know some basics on Magento, GatsbyJS, Prismick and GraphQL
